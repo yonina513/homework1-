@@ -1,0 +1,11 @@
+# -- Clone this Repo --
+(git clone https://github.com/yonina513/homework1-.git)
+
+# -- Remove blabla.py tmp.py -- 
+ -> add
+ -> commit
+ -> push
+
+
+# -- Tell me and I will make some changes to the repo
+# -- git pull the changes  
