@@ -1,0 +1,25 @@
+++++++++++++++++
++ GIT COMMANDS +
+++++++++++++++++
+
+# --1-- Cloning a repo
+git clone https://github.com/yonina513/homework1-.git
+
+# --2-- Getting a status of my local Repo
+git status
+
+# --3-- I have changes that are in the staging area that i want to add to my next commit 
+git add .
+
+# --4-- I want to commit all of my staged files
+git commit -m 'some message here'
+
+# --5-- I want to push my commits to the remote repo
+git push
+
+++++++++++
++ Extra  +
+++++++++++
+
+# --6-- See the difference made to a file that is un
+git diff hello.py
